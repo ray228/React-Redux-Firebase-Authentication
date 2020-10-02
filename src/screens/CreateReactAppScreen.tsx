@@ -26,7 +26,7 @@ export default CreateReactAppScreen;
 
 const Wrapper = styled.div`
     text-align: center;
-    min-height: 100vh;
+    min-height: 80vh;
     display: flex;
     flex-direction: column;
     align-items: center;
