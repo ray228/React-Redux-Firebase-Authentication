@@ -16,6 +16,7 @@ const LoginScreen = () => {
     //       - In the LOGIN_SUCCEEDED reducer, we should:
     //          - Populate the store with our user authentication data
     //          - set the authentication 'isLoading' flag in the store to 'false'
+    // WRONG, but Dakota learnt. 
 
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
